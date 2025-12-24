@@ -1,0 +1,13 @@
+{
+  "admin": { "id": "ADMIN001" },
+  "security": { "id": "SEC001" },
+  "members": [
+    { "id": "M01", "name": "Flat 1 Owner", "flat": 1 },
+    { "id": "M02", "name": "Flat 2 Owner", "flat": 2 }
+  ],
+  "entries": [],
+  "transactions": [
+    { "type": "maintenance", "flat": 1, "amount": 2000 },
+    { "type": "salary", "staff": "Security", "amount": 12000 }
+  ]
+}
